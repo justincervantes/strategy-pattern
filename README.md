@@ -1,6 +1,4 @@
-# LodgeLink Developer Workshop 1 - Object Oriented Programming
-
-Conducted by Maurizio Tripi - January 30, 2025 as a mob programming exercise. This exercise has been formatted into a quick to start assignment for developers to work through their understanding of SOLID principles.
+# Developer Workshop - Object Oriented Programming
 
 ## Prompt
 
@@ -24,5 +22,5 @@ Create a calculator that converts temperatures from Celsius to Fahrenheit, and f
 
 - What if your calculator implement Kelvin and Rankine. What did you have to change? Do you still like your solution?
 - Is OOP forced in this example? Is there a better, less complex way to solve this without using `if` statements? If so, how?
-- Is there an area of our codebase that we could improve by using this kind of modeling?
+- Is there an area of a codebase you maintain that we could improve by using this kind of modeling?
 - What is the balance between OOP and Functional Programming?
